@@ -1,6 +1,3 @@
-kcp
-===
+quarantine-kcp
 
-A command-line tool for KaOS Community Packages
-
-For more informations, see: https://github.com/KaOS-Community-Packages
+Tool to download, build and install software from https://github.com/KCP-quarantine-area 
